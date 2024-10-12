@@ -25,6 +25,7 @@
     "mongodb-resumetoken-decoder": "bin/mongodb-resumetoken-decoder.js"
   },
   "exports": {
+    "types": "./lib/index.d.ts",
     "require": "./lib/index.js",
     "import": "./.esm-wrapper.mjs"
   },
