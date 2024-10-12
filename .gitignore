@@ -5,3 +5,5 @@ dist
 coverage
 .esm-wrapper.mjs
 lib/
+.idea/
+.npmrc
